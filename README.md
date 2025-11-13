@@ -7,6 +7,7 @@
 - `ai-agent-transition-plan.md`：针对 AI Agent 方向的技能地图，详列拆分后的关键技能点。
 - `market-gap-analysis.md`：AI Agent 招聘市场现状与能力差距分析。
 - `next-step-actions.md`：分阶段的学习与实践行动建议。
+- `interview-questions/`：按主题整理的 AI Agent 全栈工程师高频面试题（每类约 50 题），并细分 6–8 个子分类且附提示说明，涵盖模型基础、RAG、编排、交付、运维、安全、项目经验、网络通信、前端技术栈、数据库系统与软技能。
 
 建议的使用方式：
 
